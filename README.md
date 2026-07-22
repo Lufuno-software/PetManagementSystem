@@ -25,11 +25,15 @@ The project demonstrates the fundamentals of Object-Oriented Programming (OOP) b
 
 ## 🚀 Sample Output
 Name: Rex
+
 Breed: Jack Russell Terrier
+
 Age: 10
 
 The dog is eating its food.
+
 The dog is sleeping.
+
 The dog likes to play catch.
 
 ## 👩‍💻 Author
