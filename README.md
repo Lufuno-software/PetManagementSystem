@@ -17,7 +17,6 @@ The project demonstrates the fundamentals of Object-Oriented Programming (OOP) b
 - Visual Studio 2022
 
 ## 📚 Concepts Practiced
-
 - Classes
 - Objects
 - Methods
@@ -25,17 +24,12 @@ The project demonstrates the fundamentals of Object-Oriented Programming (OOP) b
 - Object creation
 
 ## 🚀 Sample Output
-
 Name: Rex
-
 Breed: Jack Russell Terrier
-
 Age: 10
 
 The dog is eating its food.
-
 The dog is sleeping.
-
 The dog likes to play catch.
 
 ## 👩‍💻 Author
